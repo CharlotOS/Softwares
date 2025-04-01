@@ -1,6 +1,6 @@
 # 🛡️ **How to Use Cryptinox** 🔐  
+*For Cryptinox 1.0.0*  
 *(Super Easy Guide!)*  
-*(For Cryptinox 1.0.0)*  
 
 ## 📥 **1. Download the App**  
 🔗 Go to the **GitHub page** from **this repository** where the app is stored. *(Software.)*  
