@@ -3,7 +3,8 @@
 
 ## 📥 **1. Download the App**  
 Go to the **GitHub page** from **this repository** where the app is stored. *(Software.)*  
-🔗 Click the **Download** button to get **Cryptinox.exe** on your computer and then move it from *downloads* to a folder of your choice, like **Program Files**.  
+🔗 Click the **Download** button to get **Cryptinox.exe** on your computer.  
+Then, move it from *downloads* to a folder of your choice, like **Program Files**.  
 
 ---
 
