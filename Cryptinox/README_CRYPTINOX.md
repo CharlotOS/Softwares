@@ -1,5 +1,6 @@
 # 🛡️ **How to Use Cryptinox** 🔐  
 *(Super Easy Guide!)*  
+*(For Cryptinox 1.0.0)*  
 
 ## 📥 **1. Download the App**  
 🔗 Go to the **GitHub page** from **this repository** where the app is stored. *(Software.)*  
@@ -38,3 +39,4 @@ Double-click **Cryptinox.exe** to open it. You will see **two choices**:
 ⚠️ **Do NOT forget your password!** If you do, you **cannot** unlock your files.  
 ⚠️ **Be careful** with important files. Encrypting means locking them away! *(Don't encrypt the C:\ Drive for example, as it will corrupt Windows!)*  
 ⚠️ **Your antivirus might check the app** – this is normal, just allow it.  
+⚠️ **This software is in beta!** This means that the software can experience issues and bugs. Feel free to report them!  
