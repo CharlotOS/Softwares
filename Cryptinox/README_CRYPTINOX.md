@@ -36,5 +36,5 @@ Double-click **Cryptinox.exe** to open it. You will see **two choices**:
 
 ## ❗ **Important Things to Remember!**  
 ⚠️ **Do NOT forget your password!** If you do, you **cannot** unlock your files.  
-⚠️ **Be careful** with important files. Encrypting means locking them away! *(Don't encrypt the C:\ Drive for example, as it will corrupt Windows!)*  
+⚠️ **Be careful** with important files. Encrypting means locking them away! *(Don't encrypt the C:\ Drive for example, as it will corrupt Windows! 🪦)*  
 ⚠️ **Your antivirus might check the app** – this is normal, just allow it.  
