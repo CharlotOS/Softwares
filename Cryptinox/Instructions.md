@@ -25,7 +25,7 @@ Double-click **Cryptinox.exe** to open it. You will see **two choices** *(Finish
 
 ## 🔓 **4. Decrypt a File**  
 1️⃣ Enter the **same password** you used to lock the file you want to decrypt.  
-2️⃣ Click **encrypt**.
+2️⃣ Click **encrypt**.  
 3️⃣ Choose the **folder** where your locked files are.  
 4️⃣ Boom! Your files are back to normal! 🎉  
 
