@@ -3,8 +3,8 @@
 
 ## 📥 **1. Download the App**  
 Go to the **GitHub page** from **this repository** where the app is stored. *(Software.)*  
-🔗 Click the **Download** button to get **Cryptinox.exe** on your computer.  
-Then, move it from *downloads* to a folder of your choice, like **Program Files**.  
+🔗 Click the **Download** button to get **Cryptinox.exe** on your computer. 💾  
+💽 Then, move it from *downloads* to a folder of your choice, like **Program Files**.  
 
 ---
 
@@ -19,7 +19,7 @@ Double-click **Cryptinox.exe** to open it. You will see **two choices**:
 ## 🔒 **3. Encrypt a File**  
 1️⃣ The app will ask for a **password** – type a strong one! *(Don’t forget it)*  
 2️⃣ Click **encrypt files**  
-3️⃣ Choose the **folder** where the files that you want to encrypt are.  
+3️⃣ Choose the **folder** where the files that you want to encrypt are. 📁  
 4️⃣ The files will turn into secret, locked **.enc** versions. ✅  
 
 ---
