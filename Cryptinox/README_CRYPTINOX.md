@@ -2,7 +2,7 @@
 *(Super Easy Guide!)*  
 
 ## 📥 **1. Download the App**  
-Go to the **GitHub page** from this repository where the app is stored. *(Software.)*  
+Go to the **GitHub page** from **this repository** where the app is stored. *(Software.)*  
 🔗 Click the **Download** button to get **Cryptinox.exe** on your computer.  
 
 ---
