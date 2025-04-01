@@ -23,13 +23,13 @@ Double-click **Cryptinox.exe** to open it. You will see **two choices**:
 1️⃣ The app will ask for a **password** – type a strong one! *(Don’t forget it!)*  
 2️⃣ Click **encrypt files**  
 3️⃣ Choose the **folder** where the files that you want to encrypt are. 📁  
-4️⃣ The files will turn into secret, locked **.enc** versions. ✅  
+4️⃣ The files will turn into secret, locked **.enc** versions. 🔐  
 
 ---
 
 ## 🔓 **4. Decrypt a File**  
 1️⃣ Enter the **same password** you used to lock the file you want to decrypt.  
-2️⃣ Click **encrypt**.  
+2️⃣ Click **decrypt**.  
 3️⃣ Choose the **folder** where your locked files are.  
 4️⃣ Boom! Your files are back to normal! 🎉  
 
