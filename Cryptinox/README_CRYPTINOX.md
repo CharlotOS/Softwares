@@ -2,14 +2,14 @@
 *(Super Easy Guide!)*  
 
 ## 📥 **1. Download the App**  
-Go to the **GitHub page** where the app is stored.  
+Go to the **GitHub page** from this repository where the app is stored. *(Software)*  
 🔗 Click the **Download** button to get **Cryptinox.exe** on your computer.  
 
 ---
 
 ## 📂 **2. Choose What You Want to Do**  
-Double-click **Cryptinox.exe** to open it. You will see **two choices** *(Finish reading before clicking on anything.)*:  
-
+Double-click **Cryptinox.exe** to open it. You will see **two choices**:  
+*(Finish reading before clicking on anything)*  
 🟢 **Encrypt Files** – This will lock your files so no one else can open them.  
 🔴 **Decrypt Files** – This will unlock files that were locked before.  
 
