@@ -8,7 +8,7 @@ Go to the **GitHub page** where the app is stored.
 ---
 
 ## 📂 **2. Choose What You Want to Do**  
-Double-click **Cryptinox.exe** to open it. You will see **two choices**:  
+Double-click **Cryptinox.exe** to open it. You will see **two choices** (Finish reading before clicking on anything.):  
 
 🟢 **Encrypt Files** – This will lock your files so no one else can open them.  
 🔴 **Decrypt Files** – This will unlock files that were locked before.  
