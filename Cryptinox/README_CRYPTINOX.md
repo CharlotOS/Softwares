@@ -1,5 +1,5 @@
 # 🛡️ **How to Use Cryptinox** 🔐  
-*For Cryptinox 1.0.0*  
+***For Cryptinox 1.0.0***  
 *(Super Easy Guide!)*  
 
 ## 📥 **1. Download the App**  
