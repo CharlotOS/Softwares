@@ -67,5 +67,4 @@ You’ll see these 4 buttons:
 
 ---
 
-Made with ❤️ by **Radiump**  
 💻 [GitHub: Radiump123](https://github.com/Radiump123)
