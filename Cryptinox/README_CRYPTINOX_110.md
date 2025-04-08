@@ -1,9 +1,6 @@
 # 🛡️ How to Use Cryptinox 1.1.0 🔐  
-
-**(Now with More Features!)**  
-✨ Super Easy Guide ✨
-
----
+***(Now with More Features!)***  
+*(Super Easy Guide!)*
 
 ## 📥 1. Download the App
 
