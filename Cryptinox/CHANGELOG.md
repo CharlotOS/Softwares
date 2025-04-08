@@ -4,8 +4,8 @@
 ---
 ### Published 1.1.0  
 #### Changes:  
-* *Added batch encryption*
-* *Added unique file decryption*
-* *Bug correction*
-* *Added a Dark Mode version*  
+* *Added batch encryption.*
+* *Added unique file decryption.*
+* *Bug correction.*
+* *Added a Dark Mode version.*  
 ---
