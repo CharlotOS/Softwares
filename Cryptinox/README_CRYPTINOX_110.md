@@ -5,14 +5,14 @@
 ## 📥 1. Download the App
 
 🔗 Head to the [Cryptinox GitHub](https://github.com/Radiump123/Softwares), inside the `Software` folder.  
-💾 Click the download button to get `Cryptinox.exe`.  
+💾 Click the download button to get `Cryptinox110.exe`.  
 📁 Move it from your Downloads into a folder like `Program Files` or your Desktop.
 
 ---
 
 ## ⚙️ 2. Open the App
 
-🖱️ Double-click `Cryptinox.exe`.  
+🖱️ Double-click `Cryptinox110.exe`.  
 You’ll see these 4 buttons:
 
 - 🟢 Encrypt File  
