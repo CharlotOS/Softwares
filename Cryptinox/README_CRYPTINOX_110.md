@@ -63,7 +63,8 @@ You’ll see these 4 buttons:
 ⚠️ **DO NOT FORGET YOUR PASSWORD** – There is no recovery!  
 ⚠️ The app deletes the original files after encryption – make backups if needed  
 ⚠️ Your antivirus might scan the app the first time – just allow it  
-⚠️ This version is still in **beta** – you can report bugs or suggest improvements
+⚠️ This version is still in **beta** – you can report bugs or suggest improvements  
+⚠️ Note that these instruction are the same for the **Dark Mode** version of *Cryptinox 1.1.0*.  
 
 ---
 
