@@ -160,7 +160,7 @@ style_entry = {
     "width": 30
 }
 
-# Widgets
+
 tk.Label(root, text="Enter Password:", **style_label).pack(pady=5)
 password_entry = tk.Entry(root, show="*", **style_entry)
 password_entry.pack(pady=5)
