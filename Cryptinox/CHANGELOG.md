@@ -9,7 +9,7 @@
 * *Bug correction.*
 * *Added a Dark Mode version.*  
 ---
-### Upadted 1.1.0 to 1.1.1  
+### Upadted 1.1.0 to 1.1.5  
 #### Changes:  
 * *Bug correction.*
 ---
