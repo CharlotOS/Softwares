@@ -66,6 +66,8 @@ You’ll see these 4 buttons:
 ⚠️ This version is still in **beta** – you can report bugs or suggest improvements  
 ⚠️ Note that these instruction are the same for the **Dark Mode** version of *Cryptinox 1.1.0*.  
 
----
-
+---  
+  
+Written by R. R.J.G. Larocque.  
+  
 💻 [GitHub: Radiump123](https://github.com/Radiump123)
