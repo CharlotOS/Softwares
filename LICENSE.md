@@ -1,6 +1,6 @@
 Creative Commons Attribution-ShareAlike 4.0 International License  
 
-Copyright © 2025 R. R.J.G. Larocque.  
+Copyright © 2025 R. R.J. G. Larocque.  
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. You may copy, modify, distribute, and perform the work, even for commercial purposes, as long as you attribute the work to the original author and distribute any derivative works under the same license.  
 
