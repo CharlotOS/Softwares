@@ -68,6 +68,6 @@ You’ll see these 4 buttons:
 
 ---  
   
-Written by R. R.J.G. Larocque.  
+Written by ***R. R.J. G. Larocque***.  
   
 💻 [GitHub: Radiump123](https://github.com/Radiump123)
